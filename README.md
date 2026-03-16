@@ -50,9 +50,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupeshbhardwaj002&show_icons=true&theme=dracula" alt="Rupeshbhardwaj002 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshbhardwaj002&layout=compact&theme=dracula" alt="Rupeshbhardwaj002 top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupeshbhardwaj002&theme=dracula" alt="Rupeshbhardwaj002 streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupeshbhardwaj002&show_icons=true&theme=light" alt="Rupeshbhardwaj002 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshbhardwaj002&layout=compact&theme=light" alt="Rupeshbhardwaj002 top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupeshbhardwaj002&theme=light" alt="Rupeshbhardwaj002 streak" />
 </p>
-
 
