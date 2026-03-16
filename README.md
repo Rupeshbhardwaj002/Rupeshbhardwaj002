@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **an awesome project in ZenithIndia as a AI intern.**
 - 🌱 I’m currently learning **Advanced MLOps and Langraph(AI Agents)**
 - 👯 I’m looking to collaborate on **Mlops-Capstone-Project-II**
-- 🤔 I’m looking for help with **building robust pipelie for hyperparameter tuning.**
+- 🤔 I’m looking for help with **building robust pipelie and hyperparameter tuning.**
 - 💬 Ask me about **robust ML pipelines and MLOPS**
 - 📫 How to reach me: **bhardwajrupesh933@zohomail.in**
 - ⚡ Fun fact: **I love coffee**
@@ -50,8 +50,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupeshbhardwaj002&show_icons=true&theme=radical" alt="Rupeshbhardwaj002 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshbhardwaj002&layout=compact&theme=radical" alt="Rupeshbhardwaj002 top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupeshbhardwaj002&theme=radical" alt="Rupeshbhardwaj002 streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupeshbhardwaj002&show_icons=true&theme=dracula" alt="Rupeshbhardwaj002 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshbhardwaj002&layout=compact&theme=dracula" alt="Rupeshbhardwaj002 top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupeshbhardwaj002&theme=dracula" alt="Rupeshbhardwaj002 streak" />
 </p>
+
 
