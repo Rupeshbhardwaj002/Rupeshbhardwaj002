@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupesh Bhardwaj</h1>
 <h3 align="center">A passionate AI/ML Engineer & MLOps enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RupeshBbhardwaj002&label=Profile%20views&color=0e75b6&style=flat" alt="RupeshBbhardwaj002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rupeshbhardwaj002&label=Profile%20views&color=0e75b6&style=flat" alt="Rupeshbhardwaj002" /> </p>
 
 - 🔭 I’m currently working on **an awesome project in ZenithIndia as a AI intern.**
 - 🌱 I’m currently learning **Advanced MLOps and Langraph(AI Agents)**
@@ -50,8 +50,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RupeshBbhardwaj002&show_icons=true&theme=radical" alt="RupeshBbhardwaj002 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupeshBbhardwaj002&layout=compact&theme=radical" alt="RupeshBbhardwaj002 top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupeshBbhardwaj002&theme=radical" alt="RupeshBbhardwaj002 streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rupeshbhardwaj002&show_icons=true&theme=radical" alt="Rupeshbhardwaj002 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshbhardwaj002&layout=compact&theme=radical" alt="Rupeshbhardwaj002 top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupeshbhardwaj002&theme=radical" alt="Rupeshbhardwaj002 streak" />
 </p>
 
